@@ -17,7 +17,7 @@ once installed, you can import the package and use it's functionality directly:
 ```python
 from tukey import tukey
 
-# Basic arithmatic operations
+# Basic arithmetic operations
 print(tukey.add(1, 2))         # Output: 3
 print(tukey.subtract(5, 3))    # Output: 2
 print(tukey.multiply(4, 6))    # Output: 24
