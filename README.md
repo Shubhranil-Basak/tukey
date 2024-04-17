@@ -1,4 +1,4 @@
-# tukey (v 0.0.1)
+# tukey (v 0.0.2)
 The tukey package provides basic mathematical operations like addition, subtraction, multiplication and division.
 
 * **Code and Documentation:** [https://github.com/Shubhranil-Basak/tukey](https://github.com/Shubhranil-Basak/tukey)
